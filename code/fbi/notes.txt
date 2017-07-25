@@ -1,0 +1,71 @@
+Pitch
+
+Summary 
+
+I found an interesting dataset with UFOs sightings over the years in National UFO Reporting Center and I thought that it will be nice to map the UFOs appearances and the most common shapes and colors of them. Also maybe there are some trends, like:
+ In California appear red fireballs and in Toronto Blue Disks. 
+The visualization could be a map with the number of the sightings and when you hover over the point the most common shape of this area could appear. Or if we want a not clickable viz I could try to make a timeline, but I don’t know how. 
+The viz could be like this:
+(http://www.mufon.com/track-ufos.html)
+
+
+Possible Headlines:
+UFOs fashion trends, what is the trend for 2017.
+States attractive to UFOs.
+Dateset: http://www.nuforc.org/webreports/ndxevent.html
+Problems: The dataset is huge and selenium crashes after a while, I used a sample and I will try to find a way to get all the data. 
+Also I have to do some digging, because I stumbled upon some articles about Area 51 and the Roswell Incident in 1947 and I believe that around those areas - dates there should be traffic. 
+
+Work so far:
+I scraped a dataset for the last month, cleaned it and plot this graph about shapes:
+
+SHAPES 
+
+nspecified,3504
+changed,1
+Changing,2691
+Chevron,1288
+Cigar,2668
+Circle,2346
+Cone,463
+Crescent,2
+Cross,342
+Cylinder,1713
+Delta,8
+Diamond,1639
+Disk,6969
+Dome,1
+Egg,999
+Fireball,8619
+Flare,1
+Flash,1930
+Formation,3446
+Hexagon,1
+Light,22645
+Other,7689
+Oval,4998
+pyramid,1
+Rectangle,1839
+Round,2
+Sphere,7314
+Teardrop,1008
+Triangle,10460
+TRIANGULAR,1
+Unknown,7841
+ 
+Added
+
+Circle new = Circle + Oval + Sphere + Round = 23746
+
+Deleted Unspecified + Unknown + Other
+
+Triangle = Triangle, TRIANGULAR +pyramid
+
+Changing + changed
+
+Flare + Flash
+
+Changing = Changing + Formation  = 6138 
+
+Cigar = Cylinder + Cigar = 4381
+
