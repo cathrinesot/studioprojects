@@ -1,10 +1,13 @@
 ---
 
-title: Ufos
-layout: project
+layout: default
 
 ---
 
-# This is my project about something
+# Hi, I'm Catherine
 
-![](infographic1.png)
+This is my site of projects for the [Lede Program](http://ledeprogram.com)
+
+* [Project 1]({{ site.url }}/a-very-cool-project): Ufos
+* [Project 2]({{ site.url }}/a-very-cool-project): Lorem ipsum
+* [Project 3]({{ site.url }}/a-very-cool-project): Lorem ipsum
