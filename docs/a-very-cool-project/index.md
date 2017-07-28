@@ -7,4 +7,3 @@ layout: project
 
 # This is my project about something
 
-![](cats-master-header.png)
