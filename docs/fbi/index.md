@@ -1,10 +1,8 @@
 ---
 
-title: Ufos
+title: FBI
 layout: project
 
 ---
 
-# This is my project about homicides in the US!
-
-![](FBI_new.jpg)
+![](FBI_new.png)
