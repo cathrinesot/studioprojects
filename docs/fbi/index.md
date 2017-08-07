@@ -1,6 +1,6 @@
 ---
 
-title: FBI
+title: A Very Cool Project
 layout: project
 
 ---
