@@ -5,6 +5,6 @@ layout: project
 
 ---
 
-# This is my project about UFO sightings!
+# This is my project about homicides in the US!
 
-![](FBI_new.png)
+![](FBI_new.jpg)
