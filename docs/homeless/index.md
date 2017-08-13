@@ -15,7 +15,7 @@ Though the homeless population has been reduced in most states, the battle again
 
 ![](total.png)
 
-# The U.S. States With The Most Homeless People
+## The U.S. States With The Most Homeless People
 
 Approximately 550,000 people in the United States are homeless with the majority of them living on the streets or in shelters in New York or California. 
 
