@@ -19,7 +19,7 @@ Though the homeless population has been reduced in most states, the battle again
 
 Approximately 550,000 people in the United States are homeless with the majority of them living on the streets or in shelters in New York or California. 
 
-![](non_pop.png)
+![](no_pop.png)
 
 The largest number of homeless people is recorded in California, where 118,143 people are experiencing homelessness while in the state of New York the number of total homeless is 86,352. 
 
