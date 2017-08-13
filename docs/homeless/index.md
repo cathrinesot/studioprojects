@@ -37,3 +37,5 @@ Some states made great progress resolving the problem. Florida reduced the homel
 the number of homeless increased instead of decreasing. In total, 20,746 New Yorkers became homeless over the past 6 years, with a total increase of 63 % since 2010.  
 
 ![](pop_stand2.png)
+
+Link to the data analysis: https://github.com/cathrinesot/studioprojects/blob/master/code/homeless/Homeless%20People%20in%20the%20US.ipynb
