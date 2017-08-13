@@ -27,14 +27,13 @@ At state level, California accounts for 21 percent of homeless individuals in th
 
 ![](per_hom.png)
 
-The total homeless population in 2016 represents significant progress. For most states that figure is down.
+Compared to the total population of every state, the District of Columbia has the highest rate of homelessness.
 
-![](pop_stand2.png)
+![](pop_stand.png)
+
+The total homeless population in 2016 represents significant progress. For most states that figure is down. 
 
 Some states made great progress resolving the problem. Florida reduced the homeless population by 83% since 2010, while in New York 
-the number of homeless increased instead of decreasing. 
+the number of homeless increased instead of decreasing. In total, 20,746 New Yorkers became homeless over the past 6 years, with a total increase of 63 % since 2010.  
 
-
-In total, 20,746 New Yorkers became homeless over the past 6 years, with a total increase of 63 % since 2010. 
-
-![](ny_diff.png)
+![](pop_stand2.png)
