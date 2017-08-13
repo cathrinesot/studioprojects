@@ -27,7 +27,7 @@ At state level, California accounts for 21 percent of homeless individuals in th
 
 ![](per_hom.png)
 
-Compared to the total population of every state, the District of Columbia has the highest rate of homelessness.
+Compared to the total population of every state, the District of Columbia has the highest rate of homelessness. New York is still second.
 
 ![](pop_stand.png)
 
